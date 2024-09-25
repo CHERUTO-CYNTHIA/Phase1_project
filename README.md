@@ -42,6 +42,10 @@ The visualization below represents the severity of injuries vary based on the ai
 
 ![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/a3f924ac9dda3f6f7a88e1a5dd6076de07303247/img2.png)
 
+
+## Where the majority of these accidents occur
+![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/e8632857370564abf46eaac3443182b179e3b06e/img3.png)
+
 A Tableau dashboard that presents the results of the analysis is available here:## https://public.tableau.com/app/profile/cynthia.cheruto/viz/Book1_17272998859030/Dashboard1?publish=yes
 
 
