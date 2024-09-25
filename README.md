@@ -34,9 +34,13 @@ Covering civil aircraft accidents from 1962 to 2023 through covered domestic and
  
 The visualization below represents the severity of injuries vary based on the aircraft model
 
+
+##  The severity of injuries vary based on the aircraft model
 ![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/08010caef3ac08093ff8428c6ea6a148bae0a2da/img1.png)
 
-A Tableau dashboard that presents the results of the analysis is available here:##
+## The aircraft models that are notorious for causing the most accidents
+
+A Tableau dashboard that presents the results of the analysis is available here:## https://public.tableau.com/app/profile/cynthia.cheruto/viz/Book1_17272998859030/Dashboard1?publish=yes
 
 
 
