@@ -30,7 +30,10 @@ Data Source and Description
 
 Covering civil aircraft accidents from 1962 to 2023 through covered domestic and international incidents, data was provided by the National Transportation Safety Board. Datasets➾Chosen dataset-AviationData. The offers excellent lists of aircraft models, incident types, locations and safety record saved as csv. In this study, data cleaning and analysis techniques were used to 1) understand what we know about low-risk aircrafts; and 2) examine factors that affect accident rates for these aircrafts, such as handling missing data or detecting outliers.
 
-Data Visualization
+## Data Visualization
+ 
+The visualization below represents the severity of injuries vary based on the aircraft model
+![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/d302f549d7aad8e2f9d8eaee99275d622c39e73c/img1.png)
 
 A Tableau dashboard that presents the results of the analysis is available here:##
 
