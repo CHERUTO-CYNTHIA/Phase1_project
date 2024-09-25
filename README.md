@@ -33,8 +33,8 @@ Covering civil aircraft accidents from 1962 to 2023 through covered domestic and
 ## Data Visualization
  
 The visualization below represents the severity of injuries vary based on the aircraft model
-![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/d0aacc13a1e70fba173beb8da2b2e1e7b204127c/img4.png)
-![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/0841481089a9b42a5ee32c1109678f41f27536ab/img3.png)
+
+![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/08010caef3ac08093ff8428c6ea6a148bae0a2da/img1.png)
 
 A Tableau dashboard that presents the results of the analysis is available here:##
 
