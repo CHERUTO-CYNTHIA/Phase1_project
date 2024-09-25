@@ -1,5 +1,7 @@
 # Introduction
 
+![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/5bc3c0a9b5ab41bc76efba39a7711897c376f51d/Airplane.jpeg)
+
 Safety is critical in the competitive, highly regulated aviation sector and must remain at the top of any airline's list if it wants to remain profitable long term. The biggest strategic imperative for the company as it moves into this space is identifying aircraft models that are low-risk. This analysis sheds light on what are the factors that lead to number of accidents, whether it is age or state-wise distribution and provides a data teamled research approach as answers in order to help make informed and sustainable aircraft acquisition decisions
 
 ##  Overview
