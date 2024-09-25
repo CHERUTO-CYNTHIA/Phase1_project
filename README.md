@@ -46,6 +46,9 @@ The visualization below represents the severity of injuries vary based on the ai
 ## Where the majority of these accidents occur
 ![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/e8632857370564abf46eaac3443182b179e3b06e/img3.png)
 
+## Aircraft models notorious for causing the most accidents
+![Image_Alt](https://github.com/CHERUTOCYNTHIA/Phase1_project/blob/03076e46c7fc185b8b1c61683ba7e63ead4492fc/img4.png)
+
 A Tableau dashboard that presents the results of the analysis is available here:## https://public.tableau.com/app/profile/cynthia.cheruto/viz/Book1_17272998859030/Dashboard1?publish=yes
 
 
